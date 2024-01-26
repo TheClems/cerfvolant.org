@@ -1,0 +1,33 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    background-color: #343541;
+}
+
+nav {
+    height: 10vh;
+    width: 100%;
+    background-color: #333333;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.split {
+    display: flex;
+}
+
+.contacts-bar {
+    width: 20vw;
+    background-color: #000000;
+}
+
+.chat {
+    width: 80vw;
+    background-color: #343541;
+}
