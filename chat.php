@@ -1,4 +1,4 @@
-<html lang="frfr">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,8 +18,11 @@
         <div class="chat">
             <div class="chat-history">
             </div>
-            <div class="chat-input">
-            </div>
+            <form class="chat-input">
+                <input class="inp-msg" type="text">
+
+                <button class="button-send" role="button">Send</button>
+            </form>
         </div>
     </div>
 </body>
