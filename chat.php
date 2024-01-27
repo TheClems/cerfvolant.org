@@ -7,10 +7,9 @@
 </head>
 <body>
     <nav>
-        <a>A</a>
-        <a>B</a>
-        <a>C</a>
-        <a>D</a>
+        <a>CerfVolant.org</a>
+        <a>Messages</a>
+        <a>[compte] {icon}</a>
     </nav>
     <div class="split">
         <div class="contacts-bar">
