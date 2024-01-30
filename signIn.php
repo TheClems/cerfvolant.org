@@ -8,11 +8,11 @@
         <label for="email">Email :</label>
         <input type="email" id="email" name="email" required><br>
 
-        <label for="username">Nom d'utilisateur :</label>
-        <input type="text" id="username" name="username" required><br>
+        <label for="userName">Nom d'utilisateur :</label>
+        <input type="text" id="userName" name="userName" required><br>
 
-        <label for="password">Mot de passe :</label>
-        <input type="password" id="password" name="password" required><br>
+        <label for="passWord">Mot de passe :</label>
+        <input type="passWord" id="passWord" name="passWord" required><br>
 
         <input type="submit" value="S'inscrire">
     </form>
@@ -20,5 +20,11 @@
 </html>
 
 <?php
+require 'baseDeDonnee.php';
 
+$email = $_POST['email'];
+$username = $_POST['userName'];
+$password = $_POST['passWord'];
+
+session_start();
 ?>
