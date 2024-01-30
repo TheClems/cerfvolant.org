@@ -11,16 +11,6 @@ body {
     background-color: #343541;
 }
 
-nav {
-    height: 5vh;
-    width: 100vw;
-    color: #fff;
-    background-color: #191919;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-}
-
 .split {
     display: flex;
     height: 95vh;
