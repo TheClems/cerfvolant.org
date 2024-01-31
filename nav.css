@@ -1,9 +1,19 @@
+body {
+    font-family: Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+}
+
 nav {
-    height: 5vh;
-    width: 100vw;
+    height: 8vh;
+    width: 100%;
     color: #fff;
     background-color: #191919;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
+    font-size: 3.5vh;
+    line-height: 8vh;
+}
+
+.nav-logo {
+    width: 7vh;
 }
