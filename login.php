@@ -50,7 +50,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     if ($user) {
 
-        if ($password=$user['passWord']) {
+        if ($password==$user['passWord']) {
             $_SESSION['utilisateur'] = $user;
             exit();
         } 
