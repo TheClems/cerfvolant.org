@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="conn-page.css">
 </head>
 <body>
+    <?php include("nav.php"); ?>
+
     <img src="logo.png" class="logo" alt="logo">
     <h1>Join cerfvolant.org</h1>
     <form action="" method="post">
