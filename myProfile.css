@@ -1,0 +1,19 @@
+.profile_image{
+    width: 30vw;
+    border-radius: 3vw;
+    position:absolute;
+    left:5vw;
+}
+
+h1{
+    color:white;
+}
+.infos_profil{
+    width: 60%;
+    position: absolute;
+    right: 0;
+    text-align: left;
+    color: white;
+    padding-top: 4vw;
+    font-size : 2.8vw;
+}
