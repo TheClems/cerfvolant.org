@@ -35,6 +35,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $username = $_POST['user1'];
     $password = $_POST['passWord'];
 
+
+
     $sql = "SELECT * FROM User WHERE email = '".$username."'";
 
     if ($result=mysqli_query($conn, $sql)) {
@@ -51,8 +53,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 
     if ($user) {
-
-        if ($password==$user['passWord']) {
+        if (password_verify($password, $user['passWord'])) {
             $_SESSION['utilisateur'] = $user;
             exit();
         } 
