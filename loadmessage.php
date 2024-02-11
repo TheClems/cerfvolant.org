@@ -1,6 +1,3 @@
-
-
-
 <?php
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
@@ -37,7 +34,6 @@ if ($result=mysqli_query($conn, $recuperemessage)) {
                                     </div>
                                 </div>
                             </li>";
-                            
             }
             else {
                 echo    "<li class='spacing'></li>
@@ -55,7 +51,6 @@ if ($result=mysqli_query($conn, $recuperemessage)) {
 else {
     echo "Erreur : " . $recuperemessage . "<br>" . mysqli_error($conn);
 }
-
 ?>
 
 
