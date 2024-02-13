@@ -1,0 +1,1 @@
+// Script js for the chat.php page
