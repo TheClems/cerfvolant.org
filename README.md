@@ -8,3 +8,6 @@ cerfvolant.org is a mini project for an instant messaging system that is continu
 - Sending and receiving instant messages
 - Real-time updates for new messages
 - Basic user profile management
+
+## Setup
+To use cerfvolant.org, follow these steps:
