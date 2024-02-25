@@ -18,3 +18,6 @@ To use cerfvolant.org, follow these steps:
 4. Access the application through your web browser.
 5. Register a new account or log in with existing credentials.
 6. Start sending and receiving messages with other users.
+
+## Setup
+To use cerfvolant.org, follow these steps:
