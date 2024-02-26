@@ -21,3 +21,5 @@ To use cerfvolant.org, follow these steps:
 
 ## Setup
 To use cerfvolant.org, follow these steps:
+
+1. Clone the repository to your local machine.
