@@ -27,3 +27,4 @@ To use cerfvolant.org, follow these steps:
 3. Configure your web server to serve the application.
 4. Access the application through your web browser.
 5. Register a new account or log in with existing credentials.
+6. Start sending and receiving messages with other users.
