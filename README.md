@@ -31,3 +31,4 @@ To use cerfvolant.org, follow these steps:
 
 ## Requirements
 - PHP
+- MySQL or MariaDB
