@@ -21,7 +21,12 @@ To use cerfvolant.org, follow these steps:
    - passWord (string)
    - Image (file path)
    - Date (time stamp at the creation of the line)
-4. Configure your web server to serve the application.
+4. Create a table named `messages` with 5 columns :
+   - idAuthor (int)
+   - idDest (int)
+   - idMSG (int autoincrement)
+   - MSG (string)
+   - temps_ajout (time stamp at the creation of the line)
 5. Access the application through your web browser.
 6. Register a new account or log in with existing credentials.
 7. Start sending and receiving messages with other users.
