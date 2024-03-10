@@ -28,7 +28,7 @@ To use cerfvolant.org, follow these steps:
    - MSG (string)
    - temps_ajout (time stamp at the creation of the line)
 5. Configure your web server to serve the application.
-6. Register a new account or log in with existing credentials.
+6. Access the application through your web browser.
 7. Start sending and receiving messages with other users.
 
 ## Setup
