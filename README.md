@@ -32,7 +32,6 @@ To use cerfvolant.org, follow these steps:
 7. Register a new account or log in with existing credentials.
 8. Start sending and receiving messages with other users.
 
-## Setup
 To use cerfvolant.org, follow these steps:
 
 1. Clone the repository to your local machine.
