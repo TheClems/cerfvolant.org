@@ -32,7 +32,7 @@ To use cerfvolant.org, follow these steps:
 7. Register a new account or log in with existing credentials.
 8. Start sending and receiving messages with other users.
 
-To use cerfvolant.org, follow these steps:
+To use cerfvolant.org,
 
 1. Clone the repository to your local machine.
 2. Set up your database by filling in the necessary details in `basededonnées.php` and creating the required tables.
