@@ -37,7 +37,7 @@ To use cerfvolant.org, follow these steps:
 To use 
 
 
-2. Set up your database by filling in the necessary details in `basededonnées.php` and creating the required tables.
+2. Set up your database by filling in the necessary details in `basededonnées.php` and creatin
 3. Configure your web server to serve the application.
 4. Access the application through your web browser.
 5. Register a new account or log in with existing credentials.
