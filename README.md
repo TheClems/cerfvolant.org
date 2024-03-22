@@ -46,4 +46,3 @@ To use
 ## Requirements
 - PHP
 - MySQL or MariaDB
-- Web server (e.g., Apache, Nginx)
