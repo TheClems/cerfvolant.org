@@ -45,4 +45,4 @@ To use
 
 ## Requirements
 - PHP
-- MySQL or MariaDB
+- MySQL or
