@@ -44,5 +44,4 @@ To use
 6. Start sending and receiving messages with other users.
 
 ## Requirements
-- PHP
 - MySQL
