@@ -43,5 +43,4 @@ To use
 5. Register a new account or log in with existing credentials.
 6. Start sending and receiving messages with other users.
 
-## Requirements
 - MySQL
